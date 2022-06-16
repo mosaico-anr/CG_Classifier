@@ -60,7 +60,7 @@
 |-      |-    |
 
 | Mean Size | Std Size  | Mean IAT | Std IAT | Sum Sizes | # Paks  |
-|-          | -         | -        |         | -         |     -   |
+|-          | -         | -        |    -     | -         |     -   |
 
 } (IP1 :arrow_right: IP2) & (IP2 :arrow_right: IP1) : 14 fields
 
@@ -93,7 +93,7 @@
 - Displays the table after the *TIMEOUT*
 
 | HASH  | IP1   | IP2   | NB CG | NB NCG  |
-|-      |       |       |       |         |
+|-      | -      | -      | -      |  -       |
 
 
 ----
