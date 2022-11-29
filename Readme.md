@@ -1,6 +1,16 @@
 # Map Reduce
 
 
+
+----
+
+
+## Licence
+- :office: This work is part of the [MOSAICO PROJECT](https://www.mosaico-project.org/)
+- :fr: Copyright (c) 2022 [Centre National de la Recherche Scientifique](https://cnrs.fr). All Rights Reserved.
+- :black_nib: Author: GRAFF Philippe
+- :link: The ML model has been trained thanks to `pcap` traces available on this website [link](https://cloud-gaming-traces.lhs.loria.fr/).
+
 ----
 
 
